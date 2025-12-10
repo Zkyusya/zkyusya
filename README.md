@@ -1,2 +1,2 @@
 <h1>Hi, I'm Zippy! <br/><a href="https://www.linkedin.com/in/zipporah-kyusya/">DevOps/ Data Science</a></h1
-<h3>Hi, I have rich background in DevOps with experience in using DevOps tools like Git,Github, Docker, Kubernetes, Maven and Jenkins & Github Actions. Im also proficient in GCP and Huawei Cloud. I am mapping this experience into Data Science by building reliable data analytics pipelines (DataOps)    </a></h3
+<h3> I have rich background in DevOps with experience in using DevOps tools like Git,Github, Docker, Kubernetes, Maven and Jenkins & Github Actions. Im also proficient in GCP and Huawei Cloud. I am mapping this experience into Data Science by building reliable data analytics pipelines (DataOps)    </a></h3
