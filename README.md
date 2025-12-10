@@ -47,19 +47,7 @@ My goal is to combine DevOps + Data Science + Bioinformatics to:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
----
 
-## 📈 GitHub Stats
-
-<div align="center">
-  
-![Zippy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zipporahkyusya&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zipporahkyusya&layout=compact&theme=radical)
-
-</div>
-
----
 
 ## 🌱 What I’m Currently Working On
 - Building data pipelines (ETL/ELT) for analytics  
