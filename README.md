@@ -41,3 +41,38 @@ My goal is to combine DevOps + Data Science + Bioinformatics to:
 ![Huawei Cloud](https://img.shields.io/badge/Huawei_Cloud-E60027?style=for-the-badge&logo=huawei&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=wh)
+### 📊 Data Science & Programming  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  
+![Zippy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zipporahkyusya&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zipporahkyusya&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 🌱 What I’m Currently Working On
+- Building data pipelines (ETL/ELT) for analytics  
+- Enhancing my machine learning skills  
+- Exploring genomics datasets  
+- Designing AI-driven healthcare solutions  
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/zipporah-kyusya/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
